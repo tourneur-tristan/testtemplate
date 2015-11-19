@@ -1,0 +1,64 @@
+body {margin: 00
+
+}
+.top {
+  background-color: #f2f2f2;
+  height: 50px;
+  padding: 00;
+  margin: 00
+
+}
+.contact {
+  float: left;
+  font-size: 13px;
+  padding-left: 00;
+  padding-top: 6px;
+  word-spacing: 10px;
+}
+.share {
+float: right;
+margin-right: 20px;
+}
+
+.top ul {
+list-style-type: none;}
+.top ul li {
+  float: left;
+}
+
+.bottom ul {list-style-type: none;
+padding-top: 20px;
+margin-right: 250px;
+
+
+
+}
+
+
+
+.bottom li {float: right;
+  display: inline-block;
+  margin-right: 25px;
+}
+
+.bottom span {
+color: yellow;
+font-size: 35px;
+position: absolute;
+padding-top: 3px;
+margin-left: 10px;
+
+}
+
+body {
+background-image: url("http://fr.best-wallpaper.net/wallpaper/1366x768/1107/Asteroid-impact-explosion_1366x768.jpg");
+
+
+}
+
+.nav a:link {text-decoration: none;
+
+}
+.nav li {color: black;
+
+}
