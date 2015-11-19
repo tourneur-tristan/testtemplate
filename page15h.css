@@ -39,10 +39,11 @@ margin-right: 250px;
 .bottom li {float: right;
   display: inline-block;
   margin-right: 25px;
+
 }
 
 .bottom span {
-color: yellow;
+color: red;
 font-size: 35px;
 position: absolute;
 padding-top: 3px;
@@ -50,13 +51,15 @@ margin-left: 10px;
 
 }
 
-
-
+.image {
+  background-image: url("http://fr.best-wallpaper.net/wallpaper/1366x768/1107/Asteroid-impact-explosion_1366x768.jpg");
+  width: 1353px;
+  height: 700px;
 }
 
-.nav a:link {text-decoration: none;
-
-}
-.nav li {color: black;
+.nav a{
+text-decoration: none;
+color: black;
+font-size: 15px;
 
 }
